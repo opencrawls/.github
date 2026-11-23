@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="120" viewBox="0 0 560 120" role="img" aria-label="OpenCrawls">
+  <text x="280" y="66" text-anchor="middle" font-size="56" letter-spacing="-1">
+    <tspan font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="800" fill="#f3f4f6">open</tspan><tspan font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-weight="400" fill="#9ca3af">crawls</tspan>
+  </text>
+  <text x="280" y="102" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="14" letter-spacing="2" fill="#9ca3af">INTELLIGENCE FOR THE WEB DATA INDUSTRY</text>
+</svg>
