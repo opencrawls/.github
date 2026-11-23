@@ -37,12 +37,6 @@ curl "https://opencrawls.com/api/v1/targets/walmart"
 
 `/targets` · `/targets/{slug}` · `/targets/{slug}/apis` · `/pagination` · `/data-inventory` · `/observations` · `/industries` · `/statistics`
 
-### How we work
-
-- **Evidence, not opinion.** Each value says how it was obtained (observed, inferred, or from a public source) and when it was last checked. Missing data is shown as unknown, never filled in.
-- **Polite collection.** A few plain, unauthenticated requests per site. We respect robots.txt, never sign in, and never solve CAPTCHAs or bypass access controls.
-- **No paid placement.** Providers cannot pay for listings, rankings or ratings, and we use no affiliate links.
-
 ### Get involved
 
 - Try **[Scrapalyzer](https://github.com/opencrawls/scrapalyzer)** on a site you scrape and open an issue when it gets something wrong.
